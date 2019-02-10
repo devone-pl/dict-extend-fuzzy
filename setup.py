@@ -5,7 +5,7 @@ here = os.path.abspath(os.path.dirname(__file__))
 README = open(os.path.join(here, 'README.md')).read()
 
 
-version = '0.1'
+version = '0.2.1'
 
 install_requires = [
     # List your project dependencies here.
@@ -18,6 +18,7 @@ setup(name='dict-extend-fuzzy',
     version=version,
     description="Get element by fuzzy key from dict",
     long_description=README,
+    long_description_content_type='text/markdown',
     classifiers=[
         "Programming Language :: Python :: 3 :: Only",
         "License :: OSI Approved :: MIT License",
