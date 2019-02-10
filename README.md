@@ -5,6 +5,8 @@ Get element by fuzzy key from dict.
 
 The library is extension for buildin type `dict`. After import you can use `get_fuzzy` and `get_fuzzy_stats` like `get` method.
 
+The minimum required python-3.4
+
 ## Installing
 This library can be install from pip:
 
