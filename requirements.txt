@@ -1,0 +1,10 @@
+atomicwrites==1.3.0
+attrs==18.2.0
+-e git+https://github.com/devone-pl/dict-extend-fuzzy.git@5a986139032d5e9a5cb417656e3b52a3a80cc78a#egg=dict_extend_fuzzy
+more-itertools==5.0.0
+pathlib2==2.3.3
+pluggy==0.8.1
+py==1.7.0
+pytest==4.2.0
+scandir==1.9.0
+six==1.12.0
