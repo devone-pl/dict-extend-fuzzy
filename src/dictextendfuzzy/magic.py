@@ -1,6 +1,6 @@
 import ctypes
 
-# src https://stackoverflow.com/questions/24497316/set-a-read-only-attribute-in-python/24498525#24498525
+# src: https://stackoverflow.com/questions/24497316/set-a-read-only-attribute-in-python/24498525#24498525
 def magic_get_dict(o):
     # find address of dict whose offset is stored in the type
     dict_addr = id(o) + type(o).__dictoffset__

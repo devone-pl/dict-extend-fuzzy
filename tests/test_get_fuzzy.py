@@ -90,4 +90,3 @@ def test_non_primitive_key():
     # str('ccc', 'ddd') ==  "('ccc', 'ddd')" 
     assert data.get_fuzzy(('ccc','ddc')) in (34, 99)
     
-
