@@ -5,7 +5,7 @@ here = os.path.abspath(os.path.dirname(__file__))
 README = open(os.path.join(here, 'README.md')).read()
 
 
-version = '0.2.1'
+version = '0.2.2'
 
 install_requires = [
     # List your project dependencies here.
