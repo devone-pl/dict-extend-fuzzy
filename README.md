@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/devone-pl/dict-extend-fuzzy.svg?branch=master)](https://travis-ci.org/devone-pl/dict-extend-fuzzy)
+
+![](https://img.shields.io/pypi/pyversions/dict-extend-fuzzy.svg?style=flat)
+
 # Dict extension - get_fuzzy
 Get element by fuzzy key from dict.
 
